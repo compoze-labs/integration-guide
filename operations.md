@@ -28,7 +28,9 @@ Compoze uses these operational aspects to as part of their support workflow. Be
 
 ![workflow](img/workflow.png)
 
-## How & when to implement
+## Metrics 
+
+### How & when to implement
 
 A Compoze integration project has 4 main types of components.
 
