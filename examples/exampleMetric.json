@@ -1,0 +1,13 @@
+[
+    {
+        "MetricName": "ExampleMetric",
+        "Dimensions": [
+            {
+                "Name": "Environment",
+                "Value": "AppName-Prod"
+            }
+        ],
+        "Value": 1.0,
+        "Unit": "Count"
+    }
+]
