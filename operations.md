@@ -1,6 +1,6 @@
 # Operations
 
-Designing and building a series of Flows is one thing, ensuring that they are running smoothly is another. Compoze's monitoring platform is built in order to ensure that everything is running smoothly, and in the event something goes wrong, that the issue is found and corrected with an emphasis on minimizing business impact. In order to do this, the Compoze Monitoring Platform works with the following areas: Logging, Tracing, Metrics & Monitoring Dashboards, and Alerting.
+Designing and building a series of connected services/apis is one thing, ensuring that they are running smoothly is another. Compoze's monitoring platform is built in order to ensure that everything is running smoothly, and in the event something goes wrong, that the issue is found and corrected with an emphasis on minimizing business impact. In order to do this, the Compoze Monitoring Platform works with the following areas: Logging, Tracing, Metrics & Monitoring Dashboards, and Alerting.
 
 ## Definitions
 
